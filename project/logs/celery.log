@@ -1,0 +1,11 @@
+[2025-08-30 15:07:58,102: INFO/MainProcess] Connected to redis://redis:6379/0
+[2025-08-30 15:07:58,104: INFO/MainProcess] mingle: searching for neighbors
+[2025-08-30 15:07:59,113: INFO/MainProcess] mingle: all alone
+[2025-08-30 15:07:59,134: INFO/MainProcess] worker@976b252ee43d ready.
+[2025-08-30 15:07:59,139: INFO/MainProcess] Task create_task[6a975b6b-6d34-4fa6-914a-30e44c66a063] received
+[2025-08-30 15:07:59,141: INFO/MainProcess] Task create_task[728658f4-f7aa-47d3-bcd9-c05980f7e084] received
+[2025-08-30 15:08:03,193: INFO/MainProcess] Events of group {task} enabled by remote.
+[2025-08-30 15:08:09,149: INFO/ForkPoolWorker-2] Task create_task[728658f4-f7aa-47d3-bcd9-c05980f7e084] succeeded in 10.00582652400044s: True
+[2025-08-30 15:08:12,739: INFO/MainProcess] Task create_task[89879647-fced-4c13-b979-390389082e44] received
+[2025-08-30 15:08:19,147: INFO/ForkPoolWorker-1] Task create_task[6a975b6b-6d34-4fa6-914a-30e44c66a063] succeeded in 20.006659175000095s: True
+[2025-08-30 15:08:22,744: INFO/ForkPoolWorker-2] Task create_task[89879647-fced-4c13-b979-390389082e44] succeeded in 10.002925130000222s: True
