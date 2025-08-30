@@ -1,5 +1,7 @@
 *.pyc
-__pycache
+__pycache__/
 .DS_Store
 
-./project/logs/*
+# Exclude logs content but keep the logs directory
+project/logs/*
+!project/logs/.gitkeep
